@@ -12,9 +12,9 @@ A Hong Kong Observatory API Wrapper
 
 #### Dataset
 
+- Local Weather Forecast
 - 9-day Weather Forecast
 - Current Weather Report
-- Local Weather Forecast
 - Weather Warning Information
 - Weather Warning Summary
 - Special Weather Tips
